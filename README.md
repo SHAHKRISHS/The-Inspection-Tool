@@ -16,7 +16,7 @@ $ cd The-Inspection-Tool
 $ pip3 install -r requirements.txt
 ```
 
-After Installing all the requirements you are ready to go!!
+> After Installing all the requirements you are ready to go!!
 
 Usage
 ---------------------
