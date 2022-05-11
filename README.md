@@ -3,7 +3,16 @@ This tool gather the information of the target URL. In this information gatherin
 
 Installation
 ---------------------
-```bash
+
+```
+$ git clone https://github.com/SHAHKRISHS/The-Inspection-Tool.git
+```
+
+```
+$ cd The-Inspection-Tool
+```
+
+```
 $ pip3 install -r requirements.txt
 ```
 
@@ -11,7 +20,7 @@ After Installing all the requirements you are ready to go!!
 
 Usage
 ---------------------
-```bash
+```
 $ python3 mainport.py
 ```
 
@@ -20,7 +29,7 @@ Screenshots
 
 **Requirements**
 
-![This is a requirement]()
+![This is a requirement](https://github.com/SHAHKRISHS/The-Inspection-Tool/blob/main/Images/Requirements.png)
 
 **Selection of the tool**
 
