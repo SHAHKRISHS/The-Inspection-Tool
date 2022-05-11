@@ -34,7 +34,7 @@ Screenshots
 
 ![This is a output of the task](https://github.com/SHAHKRISHS/The-Inspection-Tool/blob/main/Images/All%20the%20mentioned%20scanning.png)
 
-**output of the port scanning**
+**Output of the port scanning**
 
 ![This is a output of the port scanning](https://github.com/SHAHKRISHS/The-Inspection-Tool/blob/main/Images/Port%20Scanning.png)
 
@@ -42,6 +42,13 @@ Screenshots
 
 ![This is a output of the whois](https://github.com/SHAHKRISHS/The-Inspection-Tool/blob/main/Images/Whois.png)
 
-**output of the subdomain finder**
+**Output of the subdomain finder**
 
 ![This is a output of the sudomain finder](https://github.com/SHAHKRISHS/The-Inspection-Tool/blob/main/Images/Subdomainfinder.png)
+
+Information
+---------------------
+
+Author: Krish Shah
+
+License: [MIT License](https://opensource.org/licenses/MIT)
