@@ -55,6 +55,12 @@ Screenshots
 
 ![This is a output of the sudomain finder](https://github.com/SHAHKRISHS/The-Inspection-Tool/blob/main/Images/Subdomainfinder.png)
 
+Upcoming Features
+---------------------
+1. Give the user functionality to store the output in a file.
+2. Integrate the nslookup tool.
+3. Integrate many more tools.
+
 Information
 ---------------------
 
